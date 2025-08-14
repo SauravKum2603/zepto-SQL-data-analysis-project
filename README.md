@@ -16,6 +16,7 @@ Simulating a real e-commerce analytics environment to:
 📂 Dataset Overview
 
 Source: Kaggle (originally scraped from Zepto’s product listings)
+(https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv)
 
 Structure: Each row represents a SKU (Stock Keeping Unit)
 
