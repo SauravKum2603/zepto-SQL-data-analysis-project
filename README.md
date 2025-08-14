@@ -4,14 +4,6 @@ A real-world SQL data analytics project using an e-commerce inventory dataset sc
 
 This project replicates the actual workflows of a Data Analyst, from raw data ingestion to business-focused insights that drive decision-making.
 
-🎯 Who Is This For?
-
-Aspiring Data Analysts building portfolio projects for interviews & LinkedIn
-
-SQL learners seeking hands-on practice with real data
-
-Professionals preparing for retail, e-commerce, or product analytics roles
-
 📌 Project Objectives
 
 Simulating a real e-commerce analytics environment to:
